@@ -7,13 +7,29 @@ body
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{
+    background: darkgoldenrod;
+    box-shadow: 20px 5px 10px 10px rgba(0,0,0,0.5);
+    color:white;
+    margin: 22;
+    padding: 0.8    5em;
+}
+
+#cabecera #tagline
+{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container
 {
-    width: 70%;
-    padding: 1cm;
+    width: 65%;
+    padding: 1em;
     text-align: left;
-    border: solid #DDD; 
-    margin: 0 auto;
+    border: 10px solid #DDD; 
+    margin: 30 auto;
 }
 
 #container h1{
