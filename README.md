@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f310::tw-1f52e: 
+# Hyperblog 🌐 🔮 
 
 #####  Un blog para el curso de [gitHub](https://platzi.com/cursos/git-github/ "gitHub") de [Platzi](https://platzi.com "Platzi").
 -----
@@ -16,4 +16,4 @@
 -----
 ![Sorprendido](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-PctCcvOd3yNjf_TF8DvNWZtlZCQ10acOQ&usqp=CAU)
 
-Asi fue mi reacción al darme cuenta que puedo usar todas estar herramientas desde mi pc para poder aumentar mi rendimiento como profesional, para que no te pase lo mismo puedes ir a [Platzi](https://platzi.com "Platzi"), y empezar por el [Curso de programacion basico](https://platzi.com/cursos/programacion-basica/ "Curso de programacion basico"), hoy por ti mañana por mi :tw-1f609:
+Asi fue mi reacción al darme cuenta que puedo usar todas estar herramientas desde mi pc para poder aumentar mi rendimiento como profesional, para que no te pase lo mismo puedes ir a [Platzi](https://platzi.com "Platzi"), y empezar por el [Curso de programacion basico](https://platzi.com/cursos/programacion-basica/ "Curso de programacion basico"), hoy por ti mañana por mi 😉
